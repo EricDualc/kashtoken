@@ -1,0 +1,36 @@
+~Token creation - Token Address
+
+~Smart Contract Creation and Smart Contract Deployment
+
+~Token should be verified on Etherscan.
+
+~Tokens should be instantly delivered to investors when investors send ether to the contract.
+
+~Investment funds instantly delivered to wallet project wallet immediately after the project ends
+
+~Extra unsold tokens delivered to teams Escrow wallet
+Pre-Sale - 7 days
+
+Price: 1 Ether = 2700 KASH
+
+Begin: July 7
+
+End: July 13
+ICO - 40 days
+
+Price: 1 Ether = 1350 KASH
+
+Begin: July 14
+
+End: August 14
+Name: Kash
+
+Symbol: KASH
+
+Decimals: 18
+
+Quantity: 200,000,000
+
+What other info do you need?
+
+Soft Cap: 2500 ETH Hard Cap: 37,500 ETH
